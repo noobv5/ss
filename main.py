@@ -18,7 +18,7 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Linux; Android 12; M2004J19C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36',
 }
 
-token = "000"  # এখানে তোমার Bot Token বসাও
+token = "7641443463:AAEHydWd9jDOYI2g3GF6KRN-udPKIVFmSGo"  # এখানে তোমার Bot Token বসাও
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(content_types=['text'])
